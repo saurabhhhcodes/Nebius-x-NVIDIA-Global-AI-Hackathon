@@ -4,10 +4,13 @@
 [![NVIDIA Nemotron](https://img.shields.io/badge/Model-NVIDIA%20Nemotron--3%20Ultra-76B900?logo=nvidia)](https://developer.nvidia.com)
 [![Nebius Token Factory](https://img.shields.io/badge/AI%20Inference-Nebius%20Token%20Factory-indigo)](https://tokenfactory.nebius.com)
 [![Tavily AI Search](https://img.shields.io/badge/Web%20Intelligence-Tavily%20AI%20Search-teal)](https://tavily.com)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)](https://nodejs.org)
-[![React](https://img.shields.io/badge/Frontend-React%2019%20%2B%20TypeScript%20%2B%20Tailwind-blue)](https://react.dev)
+[![Live Demo](https://img.shields.io/badge/Demo-opscopilot--sre.netlify.app-00C7B7?logo=netlify)](https://opscopilot-sre.netlify.app)
+[![Demo Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/uls-A6zojfY)
 
 > **OpsCopilot** is an autonomous AI agent platform designed for DevOps and Site Reliability Engineering (SRE) teams. It consumes raw, noisy server logs or stack traces, conducts multi-hop causal reasoning inspired by the **Hermes Agent orchestration pattern**, pulls real-time CVE and community issue intelligence via **Tavily AI Search**, accurately diagnoses root causes using **NVIDIA Nemotron models** served on **Nebius Token Factory**, validates remediation scripts inside a virtualized sandbox, and broadcasts Slack Block Kit & Microsoft Teams alerts.
+
+- 🌐 **Live Hosted Demo**: [https://opscopilot-sre.netlify.app](https://opscopilot-sre.netlify.app)
+- 🎬 **YouTube Walkthrough**: [https://youtu.be/uls-A6zojfY](https://youtu.be/uls-A6zojfY)
 
 ---
 
@@ -172,7 +175,7 @@ opscopilot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AmarVerma99/Nebius-x-NVIDIA-Global-AI-Hackathon.git opscopilot
+git clone https://github.com/saurabhhhcodes/Nebius-x-NVIDIA-Global-AI-Hackathon.git opscopilot
 cd opscopilot
 ```
 

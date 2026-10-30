@@ -38,3 +38,11 @@ build/
 *.ntvs*
 *.njsproj
 *.sln
+
+# Local Netlify folder
+.netlify
+
+video_gen/
+*.webm
+*.mp4
+

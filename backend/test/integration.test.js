@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'http://localhost:5001/api';
 
 async function runTests() {
   console.log('🧪 [OpsCopilot Test Suite] Starting comprehensive integration verification...');
